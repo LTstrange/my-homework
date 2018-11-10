@@ -9,7 +9,6 @@ int main(){
 			for (int x=0;x<n-i;x++) cout<<' ';
 			for (int x=0;x<i+1;x++) cout<<i<<endl;
 		}
-		else 
 	}
 }
 

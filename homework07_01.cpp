@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
   int n,a1,a2,b1,b2,m=0;
-  //cout<<"1000-2000ä¹‹é—´æ»¡è¶³æ¡ä»¶çš„æ•°æœ‰:"<<endl;
+  //cout<<"1000-2000Ö®¼äÂú×ãÌõ¼şµÄÊıÓĞ:"<<endl;
   for(n=1000;n<2000;n++)
   {
     a1=n/1000;
@@ -17,7 +17,7 @@ int main()
     }
   }
   cout<<endl;
-  //cout<<endl<<"ä¸€å…±æœ‰"<<m<<"ä¸ª"<<endl;
+  //cout<<endl<<"Ò»¹²ÓĞ"<<m<<"¸ö"<<endl;
   cout<<m;
   return 0;
 } 
